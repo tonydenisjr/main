@@ -1,0 +1,10 @@
+-IC:\Users\tonyd\OneDrive\Documentos\programacao\cpp\FirstWorkspace\Project1
+-Ic:\MinGW\lib\gcc\mingw32\9.2.0\include\c++
+-Ic:\MinGW\lib\gcc\mingw32\9.2.0\include\c++\mingw32
+-Ic:\MinGW\lib\gcc\mingw32\9.2.0\include\c++\backward
+-Ic:\MinGW\lib\gcc\mingw32\9.2.0\include
+-Ic:\MinGW\include
+-Ic:\MinGW\lib\gcc\mingw32\9.2.0\include-fixed
+-std=c++17
+-target
+mingw32
